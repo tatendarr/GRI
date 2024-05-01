@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Lesley Matipedza
+N;CHARSET=UTF-8:Matipedza;Lesley;;Mr;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:lmatipedza@gorillaresearch.net
+TEL;TYPE=WORK,VOICE:+974 71373445
+ADR;CHARSET=UTF-8;TYPE=WORK:;;7 George Silundika Avenue ;Harare;Harare;0000;Zimbabwe
+ROLE;CHARSET=UTF-8:Chief Financial officer
+ORG;CHARSET=UTF-8:Gorilla Research And Investments
+URL;type=WORK;CHARSET=UTF-8:https://www.gorillaresearch.net/
+REV:2024-05-01T07:27:31.145Z
+END:VCARD
